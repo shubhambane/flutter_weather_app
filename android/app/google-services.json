@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264677790068",
+    "project_id": "shubham-weather",
+    "storage_bucket": "shubham-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264677790068:android:2c8c1ceb0f02c270e75c21",
+        "android_client_info": {
+          "package_name": "com.example.shubham_weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBlXu4nuyf9hPQ5HOzDch1pwfbl6yrwhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
