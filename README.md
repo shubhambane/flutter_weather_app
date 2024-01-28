@@ -1,11 +1,14 @@
 # FLutter Weather App with Firebase Authentication
-[LinkedIn Profile](https://www.linkedin.com/in/shubham-bane)
+Handcrafted by [Shubham Bane](https://www.linkedin.com/in/shubham-bane)
 
 ## Introduction
 
 The Weather App is a feature-rich application designed to provide users with accurate weather forecasts. Leveraging Firebase Authentication for secure access, the app offers a seamless experience with a variety of functionalities and customization options.
 
-![App Icon](assets/appLogo.png)
+## Screenshots
+
+![Screenshot 1](assets/appScreenShot.png)
+![Screenshot 2](assets/appLogo.png)
 
 ## Features
 
@@ -85,17 +88,36 @@ The Weather App goes beyond functionality to provide a unique and visually pleas
 
 - **Theme Customization:** Allow users to personalize the app's theme based on their preferences.
 
-## Screenshots
-
-Include screenshots or GIFs here to showcase the app's user interface and features.
-
-![Screenshot 1](link_to_screenshot_1)
-![Screenshot 2](link_to_screenshot_2)
-
 ## Getting Started
 
-Provide instructions on how to set up the project locally, including any dependencies or configuration steps.
+### Prerequisites
 
+Before you begin, ensure you have the following installed on your machine:
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/flutter-weather-app.git
+```
+### Navigate to the Project Directory
+```bash
+cd flutter-weather-app
+```
+### Install Dependencies
+```bash
+flutter pub get
+```
+### Firebase Configuration
+1. Create a new project in the [Firebase Console](https://console.firebase.google.com/)
+2. Add your Flutter app to the Firebase project.
+3. Follow Firebase documentation for more detailed instructions on adding Firebase to your Flutter app.
+### Run the App
+```bash
+flutter run
+```
 ## License
 
 This project is licensed under the [MIT License](LICENSE)
