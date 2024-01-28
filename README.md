@@ -100,11 +100,11 @@ Before you begin, ensure you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flutter-weather-app.git
+git clone https://github.com/shubhambane/flutter_weather_app.git
 ```
 ### Navigate to the Project Directory
 ```bash
-cd flutter-weather-app
+cd flutter_weather_app
 ```
 ### Install Dependencies
 ```bash
