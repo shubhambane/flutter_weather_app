@@ -1,5 +1,5 @@
 class FavoritesManager {
-  List<String> favoriteCities = [];
+  List<String> favoriteCities = ["mumbai"];
 
   void addFavoriteCity(String cityName) {
     if (!favoriteCities.contains(cityName)) {
