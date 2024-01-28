@@ -98,4 +98,4 @@ Provide instructions on how to set up the project locally, including any depende
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license_file).
+This project is licensed under the [MIT License](LICENSE)
